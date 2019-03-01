@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Houël</title>
+    <link>https://www.steve-houel.com/</link>
+    <description>Recent content on Steve Houël</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://www.steve-houel.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.steve-houel.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.steve-houel.com/about/</guid>
+      <description>TEST About</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.steve-houel.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.steve-houel.com/contact/</guid>
+      <description>Test Cotnact</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.steve-houel.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.steve-houel.com/projects/</guid>
+      <description>Test Prjects</description>
+    </item>
+    
+  </channel>
+</rss>
