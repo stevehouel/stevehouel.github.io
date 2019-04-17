@@ -3,18 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.steve-houel.com/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.steve-houel.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.steve-houel.com/projects/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.steve-houel.com/categories/</loc>
     <priority>0</priority>
   </url>
