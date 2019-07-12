@@ -10,5 +10,15 @@
 	<atom:link href="https://www.steve-houel.com/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>About Steve Houël</title>
+      <link>https://www.steve-houel.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.steve-houel.com/about/</guid>
+      <description>I am a #AWS #All9 certified Cloud Architect at Ippon Technologies. My field of expertise is DevOps &amp;amp; Cloud-based technologies and more specifically Serverless architectures. Speaker at events, contributor to OSS projects like JHipster or daSWAG and writer of blog articles or white papers &amp;ldquo;Serverless architectures, from theory to practice&amp;rdquo; in my spare time. You should have understood that, I love technology #CloudAddict
+Certifications Publications Articles  Les architectures Serverless Comment faire du Serverless L&amp;rsquo;observabilité appliqué au Serverless  Magazine  Programmez.</description>
+    </item>
+    
   </channel>
 </rss>
