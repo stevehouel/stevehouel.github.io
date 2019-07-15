@@ -21,6 +21,20 @@ Certifications Experience Senior Cloud Architect - Global Technical Leader - Ipp
     </item>
     
     <item>
+      <title>My Projects</title>
+      <link>https://www.steve-houel.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.steve-houel.com/projects/</guid>
+      <description>JHipster contributor
+Open Source application generator for creating Spring Boot + Angular/React projects in seconds!
+Website - Github
+daSWAG creator
+Generate your full Serverless Web Application in seconds with daswag cli
+Website - Github</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://www.steve-houel.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
