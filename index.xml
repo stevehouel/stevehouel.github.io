@@ -21,17 +21,27 @@ Certifications Experience Senior Cloud Architect - Global Technical Leader - Ipp
     </item>
     
     <item>
-      <title>My Projects</title>
+      <title>My Events</title>
+      <link>https://www.steve-houel.com/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.steve-houel.com/events/</guid>
+      <description> 2019  May 9 - Bordeaux - Observability pillars applied to Serverless May 14 - Nantes - To be or not to be Serverless May 21 - Toulouse - Observability pillars applied to Serverless May 23 - Lille - To be or not to be Serverless May 29 - Paris - Observability pillars applied to Serverless June 11 - Lyon - Observability pillars applied to Serverless June 19 - Lille - Serverless &amp;amp; security, what you need to understand  2018  March 15 - Lyon - Kit de survie d&amp;rsquo;une application Serverless March 28 - Nantes - To be or not to be Serverless March 29 - Toulouse - Kit de survie d&amp;rsquo;une application Serverless April 20 - Devoxx Paris - Kit de survie d&amp;rsquo;une application Serverless  2017  June 27 - Lyon - To be or not to be Serverless  </description>
+    </item>
+    
+    <item>
+      <title>My OSS Projects &amp; Contributions</title>
       <link>https://www.steve-houel.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.steve-houel.com/projects/</guid>
-      <description>JHipster contributor
+      <description> JHipster Dev Team
 Open Source application generator for creating Spring Boot + Angular/React projects in seconds!
 Website - Github
-daSWAG creator
+daSWAG Creator
 Generate your full Serverless Web Application in seconds with daswag cli
-Website - Github</description>
+Website - Github
+and more on my Github </description>
     </item>
     
     <item>
@@ -40,7 +50,7 @@ Website - Github</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.steve-houel.com/publications/</guid>
-      <description> Articles  Les architectures Serverless Comment faire du Serverless L&amp;rsquo;observabilité appliqué au Serverless  WhitePaper  Les architectures Serverless - De la théorie à la pratique  Magazine  Programmez.com - 230 Programmez.com - 231  Video  To be or not to be Serverless Observability applied to Serverless Instant conseil  </description>
+      <description> Articles  Les architectures Serverless Comment faire du Serverless L&amp;rsquo;observabilité appliqué au Serverless  WhitePaper  Les architectures Serverless v1 - De la théorie à la pratique Les architectures Serverless v2 - De la théorie à la pratique  Magazine  Programmez.com - 230 Programmez.com - 231  Video  To be or not to be Serverless Observability applied to Serverless - AWS Meetup Bordeaux Observability applied to Serverless - Ippon &amp;amp; Datadog Instant conseil  </description>
     </item>
     
   </channel>
